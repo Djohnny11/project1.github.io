@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "RB";
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: "RM";
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: "RR";
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: "Rs-B";
+    src: url(../fonts/RobotoSlab-Bold.ttf);
+}
+@font-face {
+    font-family: "Rs-S";
+    src: url(../fonts/RobotoSlab-SemiBold.ttf);
+}
